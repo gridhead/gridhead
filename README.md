@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 I am a cybersecurity enthusiast with keen interests in networking, cloud computing and operating systems. I am currently a Cybersecurity Analyst intern at ZeroGons and a contributor at Fedora Project. I have been developing cool application and service projects by [myself](https://github.com/t0xic0der/) and collaboratively with the [AstroSonic](https://github.com/astrosonic/) FOSS community. Along with all the development stuff, I have been exhibiting my presence in virtual platforms like [Medium](https://medium.com/@t0xic0der), [Quora](https://www.quora.com/profile/Akashdeep-Dhar-1) and [AskFedora](https://ask.fedoraproject.org/u/t0xic0der/) with my technical and not-so technical writings.
 
 <p align="justify">
-  <img src="https://github-readme-stats.vercel.app/api?username=t0xic0der" alt="Akashdeep's GitHub stats"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=t0xic0der&show_icons=true" alt="Akashdeep's GitHub stats"></img>
 </p>
-
+<p align="justify">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0xic0der" alt="Akashdeep's Top Language stats"></img>
+</p>
 
 ## Useful links
 If you want to stay in touch with me, these links can be useful.

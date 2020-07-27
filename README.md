@@ -20,9 +20,11 @@ I am a cybersecurity enthusiast with keen interests in networking, cloud computi
 <p align="justify">
   <img src="https://github-readme-stats.vercel.app/api?username=t0xic0der&show_icons=true" alt="Akashdeep's GitHub stats"></img>
 </p>
+<!--
 <p align="justify">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0xic0der" alt="Akashdeep's Top Language stats"></img>
 </p>
+-->
 
 ## Useful links
 If you want to stay in touch with me, these links can be useful.

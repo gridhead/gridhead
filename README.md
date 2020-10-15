@@ -13,9 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! I am `t0xic0der`
+<h1 align="center">Hi there! I am <a href="https://fedoraproject.org/wiki/User:T0xic0der" target="_blank">t0xic0der</a>!</h1>
 
-<p align="justify">I am a cybersecurity enthusiast with keen interests in networking, cloud computing and operating systems. I am a <a href="https://fedoraproject.org/wiki/User:T0xic0der">contributor</a> at Fedora Project and have interned at Zerogons LLC as a <a href="https://zerogons.com/">cybersecurity analyst</a>. I have been developing cool application and service projects by <a href="https://github.com/t0xic0der/">myself</a> and collaboratively with the <a href="https://github.com/astrosonic/">AstroSonic</a> FOSS community. Along with all the development stuff, I have been exhibiting my presence in virtual platforms like <a href="https://medium.com/@t0xic0der">Medium</a>, <a href="https://www.quora.com/profile/Akashdeep-Dhar-1">Quora</a> and <a href="https://ask.fedoraproject.org/u/t0xic0der/">AskFedora</a> with my technical and not-so technical writings.</p>
+<p align="center">
+  <img width="20%" src="https://github.com/t0xic0der/t0xic0der/blob/master/dd1b75fb884d613a4d7a5ddea7036d495d15225e.png" />
+</p>
+
+<p align="center">I am a cybersecurity enthusiast with keen interests in networking, cloud computing and operating systems. I am a <a href="https://fedoraproject.org/wiki/User:T0xic0der">contributor</a> at Fedora Project and have interned at Zerogons LLC as a <a href="https://zerogons.com/">cybersecurity analyst</a>. I have been developing cool application and service projects by <a href="https://github.com/t0xic0der/">myself</a> and collaboratively with the <a href="https://github.com/astrosonic/">AstroSonic</a> FOSS community. Along with all the development stuff, I have been exhibiting my presence in virtual platforms like <a href="https://medium.com/@t0xic0der">Medium</a>, <a href="https://www.quora.com/profile/Akashdeep-Dhar-1">Quora</a> and <a href="https://ask.fedoraproject.org/u/t0xic0der/">AskFedora</a> with my technical and not-so technical writings.</p>
 
 <p align="justify">
   <img src="https://github-readme-stats.vercel.app/api?username=t0xic0der&show_icons=true" alt="Akashdeep's GitHub stats"></img>

@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">I am a cybersecurity enthusiast with keen interests in networking, cloud computing and operating systems. I am a <a href="https://fedoraproject.org/wiki/User:T0xic0der">contributor</a> at Fedora Project and have interned at Zerogons LLC as a <a href="https://zerogons.com/">cybersecurity analyst</a>. I have been developing cool application and service projects by <a href="https://github.com/t0xic0der/">myself</a> and collaboratively with the <a href="https://github.com/astrosonic/">AstroSonic</a> FOSS community. Along with all the development stuff, I have been exhibiting my presence in virtual platforms like <a href="https://medium.com/@t0xic0der">Medium</a>, <a href="https://www.quora.com/profile/Akashdeep-Dhar-1">Quora</a> and <a href="https://ask.fedoraproject.org/u/t0xic0der/">AskFedora</a> with my technical and not-so technical writings.</p>
 
-<p align="justify">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=t0xic0der&show_icons=true" alt="Akashdeep's GitHub stats"></img>
 </p>
 <!--

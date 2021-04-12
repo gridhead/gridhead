@@ -90,4 +90,4 @@ If you want to stay in touch with me, these links can be useful.
 - [My Twitter account](https://twitter.com/ace1999dhar)
 
 ## Available for hire
-Feel free to contact me if you are hiring. [Here](https://github.com/t0xic0der/atlasdoc/raw/master/docs/pdfs/31_JUL_2020.pdf) is my resume.
+Feel free to contact me if you are hiring. [Here](https://github.com/t0xic0der/atlasdoc/raw/master/docs/pdfs/08_APR_2021.pdf) is my resume.
